@@ -42,10 +42,8 @@ public class MainActivity extends AppCompatActivity {
 
                 tvHasil.setText("Nama " + nama + " umur " + umur);
 
-
             }
         });
-
 
     }
 }
